@@ -1,2 +1,4 @@
-# informatics.mccme.ru
-informatics.mccme.ru
+Задачи по informatics.mccme.ru
+==============
+
+* informatics.mccme.ru
