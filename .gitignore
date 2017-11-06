@@ -102,3 +102,4 @@ ENV/
 
 # IDE project files
 .idea
+.idea/*
