@@ -34,4 +34,5 @@ s = n % 60
 if s < 10:
     s = "0" + str(s)
 
-print('%d:%s:%s' % (h, m, s))
+print(h, m, s, sep=':')
+# print('%d:%s:%s' % (h, m, s))
